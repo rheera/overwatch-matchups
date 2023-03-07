@@ -1,0 +1,1297 @@
+attacker,defender,strength
+Dva,Dva,0
+Dva,Doomfist,1
+Dva,Junker Queen,0
+Dva,Orisa,2
+Dva,Ramattra,2
+Dva,Reinhardt,-1
+Dva,Roadhog,-2
+Dva,Sigma,1
+Dva,Winston,0
+Dva,Wrecking Ball,2
+Dva,Zarya,2
+Dva,Ashe,2
+Dva,Bastion,2
+Dva,Cassidy,2
+Dva,Echo,2
+Dva,Genji,2
+Dva,Hanzo,2
+Dva,Junkrat,2
+Dva,Mei,2
+Dva,Pharah,2
+Dva,Reaper,2
+Dva,Sojourn,2
+Dva,Soldier: 76,2
+Dva,Sombra,2
+Dva,Symmetra,2
+Dva,Torbjörn,2
+Dva,Tracer,2
+Dva,Widowmaker,2
+Dva,Ana,2
+Dva,Baptiste,2
+Dva,Brigitte,2
+Dva,Kiriko,2
+Dva,Lúcio,2
+Dva,Mercy,2
+Dva,Moira,2
+Dva,Zenyatta,2
+Doomfist,Dva,0
+Doomfist,Doomfist,1
+Doomfist,Junker Queen,0
+Doomfist,Orisa,2
+Doomfist,Ramattra,2
+Doomfist,Reinhardt,-1
+Doomfist,Roadhog,-2
+Doomfist,Sigma,1
+Doomfist,Winston,0
+Doomfist,Wrecking Ball,2
+Doomfist,Zarya,2
+Doomfist,Ashe,2
+Doomfist,Bastion,2
+Doomfist,Cassidy,2
+Doomfist,Echo,2
+Doomfist,Genji,2
+Doomfist,Hanzo,2
+Doomfist,Junkrat,2
+Doomfist,Mei,2
+Doomfist,Pharah,2
+Doomfist,Reaper,2
+Doomfist,Sojourn,2
+Doomfist,Soldier: 76,2
+Doomfist,Sombra,2
+Doomfist,Symmetra,2
+Doomfist,Torbjörn,2
+Doomfist,Tracer,2
+Doomfist,Widowmaker,2
+Doomfist,Ana,2
+Doomfist,Baptiste,2
+Doomfist,Brigitte,2
+Doomfist,Kiriko,2
+Doomfist,Lúcio,2
+Doomfist,Mercy,2
+Doomfist,Moira,2
+Doomfist,Zenyatta,2
+Junker Queen,Dva,0
+Junker Queen,Doomfist,1
+Junker Queen,Junker Queen,0
+Junker Queen,Orisa,2
+Junker Queen,Ramattra,2
+Junker Queen,Reinhardt,-1
+Junker Queen,Roadhog,-2
+Junker Queen,Sigma,1
+Junker Queen,Winston,0
+Junker Queen,Wrecking Ball,2
+Junker Queen,Zarya,2
+Junker Queen,Ashe,2
+Junker Queen,Bastion,2
+Junker Queen,Cassidy,2
+Junker Queen,Echo,2
+Junker Queen,Genji,2
+Junker Queen,Hanzo,2
+Junker Queen,Junkrat,2
+Junker Queen,Mei,2
+Junker Queen,Pharah,2
+Junker Queen,Reaper,2
+Junker Queen,Sojourn,2
+Junker Queen,Soldier: 76,2
+Junker Queen,Sombra,2
+Junker Queen,Symmetra,2
+Junker Queen,Torbjörn,2
+Junker Queen,Tracer,2
+Junker Queen,Widowmaker,2
+Junker Queen,Ana,2
+Junker Queen,Baptiste,2
+Junker Queen,Brigitte,2
+Junker Queen,Kiriko,2
+Junker Queen,Lúcio,2
+Junker Queen,Mercy,2
+Junker Queen,Moira,2
+Junker Queen,Zenyatta,2
+Orisa,Dva,0
+Orisa,Doomfist,1
+Orisa,Junker Queen,0
+Orisa,Orisa,2
+Orisa,Ramattra,2
+Orisa,Reinhardt,-1
+Orisa,Roadhog,-2
+Orisa,Sigma,1
+Orisa,Winston,0
+Orisa,Wrecking Ball,2
+Orisa,Zarya,2
+Orisa,Ashe,2
+Orisa,Bastion,2
+Orisa,Cassidy,2
+Orisa,Echo,2
+Orisa,Genji,2
+Orisa,Hanzo,2
+Orisa,Junkrat,2
+Orisa,Mei,2
+Orisa,Pharah,2
+Orisa,Reaper,2
+Orisa,Sojourn,2
+Orisa,Soldier: 76,2
+Orisa,Sombra,2
+Orisa,Symmetra,2
+Orisa,Torbjörn,2
+Orisa,Tracer,2
+Orisa,Widowmaker,2
+Orisa,Ana,2
+Orisa,Baptiste,2
+Orisa,Brigitte,2
+Orisa,Kiriko,2
+Orisa,Lúcio,2
+Orisa,Mercy,2
+Orisa,Moira,2
+Orisa,Zenyatta,2
+Ramattra,Dva,0
+Ramattra,Doomfist,1
+Ramattra,Junker Queen,0
+Ramattra,Orisa,2
+Ramattra,Ramattra,2
+Ramattra,Reinhardt,-1
+Ramattra,Roadhog,-2
+Ramattra,Sigma,1
+Ramattra,Winston,0
+Ramattra,Wrecking Ball,2
+Ramattra,Zarya,2
+Ramattra,Ashe,2
+Ramattra,Bastion,2
+Ramattra,Cassidy,2
+Ramattra,Echo,2
+Ramattra,Genji,2
+Ramattra,Hanzo,2
+Ramattra,Junkrat,2
+Ramattra,Mei,2
+Ramattra,Pharah,2
+Ramattra,Reaper,2
+Ramattra,Sojourn,2
+Ramattra,Soldier: 76,2
+Ramattra,Sombra,2
+Ramattra,Symmetra,2
+Ramattra,Torbjörn,2
+Ramattra,Tracer,2
+Ramattra,Widowmaker,2
+Ramattra,Ana,2
+Ramattra,Baptiste,2
+Ramattra,Brigitte,2
+Ramattra,Kiriko,2
+Ramattra,Lúcio,2
+Ramattra,Mercy,2
+Ramattra,Moira,2
+Ramattra,Zenyatta,2
+Reinhardt,Dva,0
+Reinhardt,Doomfist,1
+Reinhardt,Junker Queen,0
+Reinhardt,Orisa,2
+Reinhardt,Ramattra,2
+Reinhardt,Reinhardt,-1
+Reinhardt,Roadhog,-2
+Reinhardt,Sigma,1
+Reinhardt,Winston,0
+Reinhardt,Wrecking Ball,2
+Reinhardt,Zarya,2
+Reinhardt,Ashe,2
+Reinhardt,Bastion,2
+Reinhardt,Cassidy,2
+Reinhardt,Echo,2
+Reinhardt,Genji,2
+Reinhardt,Hanzo,2
+Reinhardt,Junkrat,2
+Reinhardt,Mei,2
+Reinhardt,Pharah,2
+Reinhardt,Reaper,2
+Reinhardt,Sojourn,2
+Reinhardt,Soldier: 76,2
+Reinhardt,Sombra,2
+Reinhardt,Symmetra,2
+Reinhardt,Torbjörn,2
+Reinhardt,Tracer,2
+Reinhardt,Widowmaker,2
+Reinhardt,Ana,2
+Reinhardt,Baptiste,2
+Reinhardt,Brigitte,2
+Reinhardt,Kiriko,2
+Reinhardt,Lúcio,2
+Reinhardt,Mercy,2
+Reinhardt,Moira,2
+Reinhardt,Zenyatta,2
+Roadhog,Dva,0
+Roadhog,Doomfist,1
+Roadhog,Junker Queen,0
+Roadhog,Orisa,2
+Roadhog,Ramattra,2
+Roadhog,Reinhardt,-1
+Roadhog,Roadhog,-2
+Roadhog,Sigma,1
+Roadhog,Winston,0
+Roadhog,Wrecking Ball,2
+Roadhog,Zarya,2
+Roadhog,Ashe,2
+Roadhog,Bastion,2
+Roadhog,Cassidy,2
+Roadhog,Echo,2
+Roadhog,Genji,2
+Roadhog,Hanzo,2
+Roadhog,Junkrat,2
+Roadhog,Mei,2
+Roadhog,Pharah,2
+Roadhog,Reaper,2
+Roadhog,Sojourn,2
+Roadhog,Soldier: 76,2
+Roadhog,Sombra,2
+Roadhog,Symmetra,2
+Roadhog,Torbjörn,2
+Roadhog,Tracer,2
+Roadhog,Widowmaker,2
+Roadhog,Ana,2
+Roadhog,Baptiste,2
+Roadhog,Brigitte,2
+Roadhog,Kiriko,2
+Roadhog,Lúcio,2
+Roadhog,Mercy,2
+Roadhog,Moira,2
+Roadhog,Zenyatta,2
+Sigma,Dva,0
+Sigma,Doomfist,1
+Sigma,Junker Queen,0
+Sigma,Orisa,2
+Sigma,Ramattra,2
+Sigma,Reinhardt,-1
+Sigma,Roadhog,-2
+Sigma,Sigma,1
+Sigma,Winston,0
+Sigma,Wrecking Ball,2
+Sigma,Zarya,2
+Sigma,Ashe,2
+Sigma,Bastion,2
+Sigma,Cassidy,2
+Sigma,Echo,2
+Sigma,Genji,2
+Sigma,Hanzo,2
+Sigma,Junkrat,2
+Sigma,Mei,2
+Sigma,Pharah,2
+Sigma,Reaper,2
+Sigma,Sojourn,2
+Sigma,Soldier: 76,2
+Sigma,Sombra,2
+Sigma,Symmetra,2
+Sigma,Torbjörn,2
+Sigma,Tracer,2
+Sigma,Widowmaker,2
+Sigma,Ana,2
+Sigma,Baptiste,2
+Sigma,Brigitte,2
+Sigma,Kiriko,2
+Sigma,Lúcio,2
+Sigma,Mercy,2
+Sigma,Moira,2
+Sigma,Zenyatta,2
+Winston,Dva,0
+Winston,Doomfist,1
+Winston,Junker Queen,0
+Winston,Orisa,2
+Winston,Ramattra,2
+Winston,Reinhardt,-1
+Winston,Roadhog,-2
+Winston,Sigma,1
+Winston,Winston,0
+Winston,Wrecking Ball,2
+Winston,Zarya,2
+Winston,Ashe,2
+Winston,Bastion,2
+Winston,Cassidy,2
+Winston,Echo,2
+Winston,Genji,2
+Winston,Hanzo,2
+Winston,Junkrat,2
+Winston,Mei,2
+Winston,Pharah,2
+Winston,Reaper,2
+Winston,Sojourn,2
+Winston,Soldier: 76,2
+Winston,Sombra,2
+Winston,Symmetra,2
+Winston,Torbjörn,2
+Winston,Tracer,2
+Winston,Widowmaker,2
+Winston,Ana,2
+Winston,Baptiste,2
+Winston,Brigitte,2
+Winston,Kiriko,2
+Winston,Lúcio,2
+Winston,Mercy,2
+Winston,Moira,2
+Winston,Zenyatta,2
+Wrecking Ball,Dva,0
+Wrecking Ball,Doomfist,1
+Wrecking Ball,Junker Queen,0
+Wrecking Ball,Orisa,2
+Wrecking Ball,Ramattra,2
+Wrecking Ball,Reinhardt,-1
+Wrecking Ball,Roadhog,-2
+Wrecking Ball,Sigma,1
+Wrecking Ball,Winston,0
+Wrecking Ball,Wrecking Ball,2
+Wrecking Ball,Zarya,2
+Wrecking Ball,Ashe,2
+Wrecking Ball,Bastion,2
+Wrecking Ball,Cassidy,2
+Wrecking Ball,Echo,2
+Wrecking Ball,Genji,2
+Wrecking Ball,Hanzo,2
+Wrecking Ball,Junkrat,2
+Wrecking Ball,Mei,2
+Wrecking Ball,Pharah,2
+Wrecking Ball,Reaper,2
+Wrecking Ball,Sojourn,2
+Wrecking Ball,Soldier: 76,2
+Wrecking Ball,Sombra,2
+Wrecking Ball,Symmetra,2
+Wrecking Ball,Torbjörn,2
+Wrecking Ball,Tracer,2
+Wrecking Ball,Widowmaker,2
+Wrecking Ball,Ana,2
+Wrecking Ball,Baptiste,2
+Wrecking Ball,Brigitte,2
+Wrecking Ball,Kiriko,2
+Wrecking Ball,Lúcio,2
+Wrecking Ball,Mercy,2
+Wrecking Ball,Moira,2
+Wrecking Ball,Zenyatta,2
+Zarya,Dva,0
+Zarya,Doomfist,1
+Zarya,Junker Queen,0
+Zarya,Orisa,2
+Zarya,Ramattra,2
+Zarya,Reinhardt,-1
+Zarya,Roadhog,-2
+Zarya,Sigma,1
+Zarya,Winston,0
+Zarya,Wrecking Ball,2
+Zarya,Zarya,2
+Zarya,Ashe,2
+Zarya,Bastion,2
+Zarya,Cassidy,2
+Zarya,Echo,2
+Zarya,Genji,2
+Zarya,Hanzo,2
+Zarya,Junkrat,2
+Zarya,Mei,2
+Zarya,Pharah,2
+Zarya,Reaper,2
+Zarya,Sojourn,2
+Zarya,Soldier: 76,2
+Zarya,Sombra,2
+Zarya,Symmetra,2
+Zarya,Torbjörn,2
+Zarya,Tracer,2
+Zarya,Widowmaker,2
+Zarya,Ana,2
+Zarya,Baptiste,2
+Zarya,Brigitte,2
+Zarya,Kiriko,2
+Zarya,Lúcio,2
+Zarya,Mercy,2
+Zarya,Moira,2
+Zarya,Zenyatta,2
+Ashe,Dva,0
+Ashe,Doomfist,1
+Ashe,Junker Queen,0
+Ashe,Orisa,2
+Ashe,Ramattra,2
+Ashe,Reinhardt,-1
+Ashe,Roadhog,-2
+Ashe,Sigma,1
+Ashe,Winston,0
+Ashe,Wrecking Ball,2
+Ashe,Zarya,2
+Ashe,Ashe,2
+Ashe,Bastion,2
+Ashe,Cassidy,2
+Ashe,Echo,2
+Ashe,Genji,2
+Ashe,Hanzo,2
+Ashe,Junkrat,2
+Ashe,Mei,2
+Ashe,Pharah,2
+Ashe,Reaper,2
+Ashe,Sojourn,2
+Ashe,Soldier: 76,2
+Ashe,Sombra,2
+Ashe,Symmetra,2
+Ashe,Torbjörn,2
+Ashe,Tracer,2
+Ashe,Widowmaker,2
+Ashe,Ana,2
+Ashe,Baptiste,2
+Ashe,Brigitte,2
+Ashe,Kiriko,2
+Ashe,Lúcio,2
+Ashe,Mercy,2
+Ashe,Moira,2
+Ashe,Zenyatta,2
+Bastion,Dva,0
+Bastion,Doomfist,1
+Bastion,Junker Queen,0
+Bastion,Orisa,2
+Bastion,Ramattra,2
+Bastion,Reinhardt,-1
+Bastion,Roadhog,-2
+Bastion,Sigma,1
+Bastion,Winston,0
+Bastion,Wrecking Ball,2
+Bastion,Zarya,2
+Bastion,Ashe,2
+Bastion,Bastion,2
+Bastion,Cassidy,2
+Bastion,Echo,2
+Bastion,Genji,2
+Bastion,Hanzo,2
+Bastion,Junkrat,2
+Bastion,Mei,2
+Bastion,Pharah,2
+Bastion,Reaper,2
+Bastion,Sojourn,2
+Bastion,Soldier: 76,2
+Bastion,Sombra,2
+Bastion,Symmetra,2
+Bastion,Torbjörn,2
+Bastion,Tracer,2
+Bastion,Widowmaker,2
+Bastion,Ana,2
+Bastion,Baptiste,2
+Bastion,Brigitte,2
+Bastion,Kiriko,2
+Bastion,Lúcio,2
+Bastion,Mercy,2
+Bastion,Moira,2
+Bastion,Zenyatta,2
+Cassidy,Dva,0
+Cassidy,Doomfist,1
+Cassidy,Junker Queen,0
+Cassidy,Orisa,2
+Cassidy,Ramattra,2
+Cassidy,Reinhardt,-1
+Cassidy,Roadhog,-2
+Cassidy,Sigma,1
+Cassidy,Winston,0
+Cassidy,Wrecking Ball,2
+Cassidy,Zarya,2
+Cassidy,Ashe,2
+Cassidy,Bastion,2
+Cassidy,Cassidy,2
+Cassidy,Echo,2
+Cassidy,Genji,2
+Cassidy,Hanzo,2
+Cassidy,Junkrat,2
+Cassidy,Mei,2
+Cassidy,Pharah,2
+Cassidy,Reaper,2
+Cassidy,Sojourn,2
+Cassidy,Soldier: 76,2
+Cassidy,Sombra,2
+Cassidy,Symmetra,2
+Cassidy,Torbjörn,2
+Cassidy,Tracer,2
+Cassidy,Widowmaker,2
+Cassidy,Ana,2
+Cassidy,Baptiste,2
+Cassidy,Brigitte,2
+Cassidy,Kiriko,2
+Cassidy,Lúcio,2
+Cassidy,Mercy,2
+Cassidy,Moira,2
+Cassidy,Zenyatta,2
+Echo,Dva,0
+Echo,Doomfist,1
+Echo,Junker Queen,0
+Echo,Orisa,2
+Echo,Ramattra,2
+Echo,Reinhardt,-1
+Echo,Roadhog,-2
+Echo,Sigma,1
+Echo,Winston,0
+Echo,Wrecking Ball,2
+Echo,Zarya,2
+Echo,Ashe,2
+Echo,Bastion,2
+Echo,Cassidy,2
+Echo,Echo,2
+Echo,Genji,2
+Echo,Hanzo,2
+Echo,Junkrat,2
+Echo,Mei,2
+Echo,Pharah,2
+Echo,Reaper,2
+Echo,Sojourn,2
+Echo,Soldier: 76,2
+Echo,Sombra,2
+Echo,Symmetra,2
+Echo,Torbjörn,2
+Echo,Tracer,2
+Echo,Widowmaker,2
+Echo,Ana,2
+Echo,Baptiste,2
+Echo,Brigitte,2
+Echo,Kiriko,2
+Echo,Lúcio,2
+Echo,Mercy,2
+Echo,Moira,2
+Echo,Zenyatta,2
+Genji,Dva,0
+Genji,Doomfist,1
+Genji,Junker Queen,0
+Genji,Orisa,2
+Genji,Ramattra,2
+Genji,Reinhardt,-1
+Genji,Roadhog,-2
+Genji,Sigma,1
+Genji,Winston,0
+Genji,Wrecking Ball,2
+Genji,Zarya,2
+Genji,Ashe,2
+Genji,Bastion,2
+Genji,Cassidy,2
+Genji,Echo,2
+Genji,Genji,2
+Genji,Hanzo,2
+Genji,Junkrat,2
+Genji,Mei,2
+Genji,Pharah,2
+Genji,Reaper,2
+Genji,Sojourn,2
+Genji,Soldier: 76,2
+Genji,Sombra,2
+Genji,Symmetra,2
+Genji,Torbjörn,2
+Genji,Tracer,2
+Genji,Widowmaker,2
+Genji,Ana,2
+Genji,Baptiste,2
+Genji,Brigitte,2
+Genji,Kiriko,2
+Genji,Lúcio,2
+Genji,Mercy,2
+Genji,Moira,2
+Genji,Zenyatta,2
+Hanzo,Dva,0
+Hanzo,Doomfist,1
+Hanzo,Junker Queen,0
+Hanzo,Orisa,2
+Hanzo,Ramattra,2
+Hanzo,Reinhardt,-1
+Hanzo,Roadhog,-2
+Hanzo,Sigma,1
+Hanzo,Winston,0
+Hanzo,Wrecking Ball,2
+Hanzo,Zarya,2
+Hanzo,Ashe,2
+Hanzo,Bastion,2
+Hanzo,Cassidy,2
+Hanzo,Echo,2
+Hanzo,Genji,2
+Hanzo,Hanzo,2
+Hanzo,Junkrat,2
+Hanzo,Mei,2
+Hanzo,Pharah,2
+Hanzo,Reaper,2
+Hanzo,Sojourn,2
+Hanzo,Soldier: 76,2
+Hanzo,Sombra,2
+Hanzo,Symmetra,2
+Hanzo,Torbjörn,2
+Hanzo,Tracer,2
+Hanzo,Widowmaker,2
+Hanzo,Ana,2
+Hanzo,Baptiste,2
+Hanzo,Brigitte,2
+Hanzo,Kiriko,2
+Hanzo,Lúcio,2
+Hanzo,Mercy,2
+Hanzo,Moira,2
+Hanzo,Zenyatta,2
+Junkrat,Dva,0
+Junkrat,Doomfist,1
+Junkrat,Junker Queen,0
+Junkrat,Orisa,2
+Junkrat,Ramattra,2
+Junkrat,Reinhardt,-1
+Junkrat,Roadhog,-2
+Junkrat,Sigma,1
+Junkrat,Winston,0
+Junkrat,Wrecking Ball,2
+Junkrat,Zarya,2
+Junkrat,Ashe,2
+Junkrat,Bastion,2
+Junkrat,Cassidy,2
+Junkrat,Echo,2
+Junkrat,Genji,2
+Junkrat,Hanzo,2
+Junkrat,Junkrat,2
+Junkrat,Mei,2
+Junkrat,Pharah,2
+Junkrat,Reaper,2
+Junkrat,Sojourn,2
+Junkrat,Soldier: 76,2
+Junkrat,Sombra,2
+Junkrat,Symmetra,2
+Junkrat,Torbjörn,2
+Junkrat,Tracer,2
+Junkrat,Widowmaker,2
+Junkrat,Ana,2
+Junkrat,Baptiste,2
+Junkrat,Brigitte,2
+Junkrat,Kiriko,2
+Junkrat,Lúcio,2
+Junkrat,Mercy,2
+Junkrat,Moira,2
+Junkrat,Zenyatta,2
+Mei,Dva,0
+Mei,Doomfist,1
+Mei,Junker Queen,0
+Mei,Orisa,2
+Mei,Ramattra,2
+Mei,Reinhardt,-1
+Mei,Roadhog,-2
+Mei,Sigma,1
+Mei,Winston,0
+Mei,Wrecking Ball,2
+Mei,Zarya,2
+Mei,Ashe,2
+Mei,Bastion,2
+Mei,Cassidy,2
+Mei,Echo,2
+Mei,Genji,2
+Mei,Hanzo,2
+Mei,Junkrat,2
+Mei,Mei,2
+Mei,Pharah,2
+Mei,Reaper,2
+Mei,Sojourn,2
+Mei,Soldier: 76,2
+Mei,Sombra,2
+Mei,Symmetra,2
+Mei,Torbjörn,2
+Mei,Tracer,2
+Mei,Widowmaker,2
+Mei,Ana,2
+Mei,Baptiste,2
+Mei,Brigitte,2
+Mei,Kiriko,2
+Mei,Lúcio,2
+Mei,Mercy,2
+Mei,Moira,2
+Mei,Zenyatta,2
+Pharah,Dva,0
+Pharah,Doomfist,1
+Pharah,Junker Queen,0
+Pharah,Orisa,2
+Pharah,Ramattra,2
+Pharah,Reinhardt,-1
+Pharah,Roadhog,-2
+Pharah,Sigma,1
+Pharah,Winston,0
+Pharah,Wrecking Ball,2
+Pharah,Zarya,2
+Pharah,Ashe,2
+Pharah,Bastion,2
+Pharah,Cassidy,2
+Pharah,Echo,2
+Pharah,Genji,2
+Pharah,Hanzo,2
+Pharah,Junkrat,2
+Pharah,Mei,2
+Pharah,Pharah,2
+Pharah,Reaper,2
+Pharah,Sojourn,2
+Pharah,Soldier: 76,2
+Pharah,Sombra,2
+Pharah,Symmetra,2
+Pharah,Torbjörn,2
+Pharah,Tracer,2
+Pharah,Widowmaker,2
+Pharah,Ana,2
+Pharah,Baptiste,2
+Pharah,Brigitte,2
+Pharah,Kiriko,2
+Pharah,Lúcio,2
+Pharah,Mercy,2
+Pharah,Moira,2
+Pharah,Zenyatta,2
+Reaper,Dva,0
+Reaper,Doomfist,1
+Reaper,Junker Queen,0
+Reaper,Orisa,2
+Reaper,Ramattra,2
+Reaper,Reinhardt,-1
+Reaper,Roadhog,-2
+Reaper,Sigma,1
+Reaper,Winston,0
+Reaper,Wrecking Ball,2
+Reaper,Zarya,2
+Reaper,Ashe,2
+Reaper,Bastion,2
+Reaper,Cassidy,2
+Reaper,Echo,2
+Reaper,Genji,2
+Reaper,Hanzo,2
+Reaper,Junkrat,2
+Reaper,Mei,2
+Reaper,Pharah,2
+Reaper,Reaper,2
+Reaper,Sojourn,2
+Reaper,Soldier: 76,2
+Reaper,Sombra,2
+Reaper,Symmetra,2
+Reaper,Torbjörn,2
+Reaper,Tracer,2
+Reaper,Widowmaker,2
+Reaper,Ana,2
+Reaper,Baptiste,2
+Reaper,Brigitte,2
+Reaper,Kiriko,2
+Reaper,Lúcio,2
+Reaper,Mercy,2
+Reaper,Moira,2
+Reaper,Zenyatta,2
+Sojourn,Dva,0
+Sojourn,Doomfist,1
+Sojourn,Junker Queen,0
+Sojourn,Orisa,2
+Sojourn,Ramattra,2
+Sojourn,Reinhardt,-1
+Sojourn,Roadhog,-2
+Sojourn,Sigma,1
+Sojourn,Winston,0
+Sojourn,Wrecking Ball,2
+Sojourn,Zarya,2
+Sojourn,Ashe,2
+Sojourn,Bastion,2
+Sojourn,Cassidy,2
+Sojourn,Echo,2
+Sojourn,Genji,2
+Sojourn,Hanzo,2
+Sojourn,Junkrat,2
+Sojourn,Mei,2
+Sojourn,Pharah,2
+Sojourn,Reaper,2
+Sojourn,Sojourn,2
+Sojourn,Soldier: 76,2
+Sojourn,Sombra,2
+Sojourn,Symmetra,2
+Sojourn,Torbjörn,2
+Sojourn,Tracer,2
+Sojourn,Widowmaker,2
+Sojourn,Ana,2
+Sojourn,Baptiste,2
+Sojourn,Brigitte,2
+Sojourn,Kiriko,2
+Sojourn,Lúcio,2
+Sojourn,Mercy,2
+Sojourn,Moira,2
+Sojourn,Zenyatta,2
+Soldier: 76,Dva,0
+Soldier: 76,Doomfist,1
+Soldier: 76,Junker Queen,0
+Soldier: 76,Orisa,2
+Soldier: 76,Ramattra,2
+Soldier: 76,Reinhardt,-1
+Soldier: 76,Roadhog,-2
+Soldier: 76,Sigma,1
+Soldier: 76,Winston,0
+Soldier: 76,Wrecking Ball,2
+Soldier: 76,Zarya,2
+Soldier: 76,Ashe,2
+Soldier: 76,Bastion,2
+Soldier: 76,Cassidy,2
+Soldier: 76,Echo,2
+Soldier: 76,Genji,2
+Soldier: 76,Hanzo,2
+Soldier: 76,Junkrat,2
+Soldier: 76,Mei,2
+Soldier: 76,Pharah,2
+Soldier: 76,Reaper,2
+Soldier: 76,Sojourn,2
+Soldier: 76,Soldier: 76,2
+Soldier: 76,Sombra,2
+Soldier: 76,Symmetra,2
+Soldier: 76,Torbjörn,2
+Soldier: 76,Tracer,2
+Soldier: 76,Widowmaker,2
+Soldier: 76,Ana,2
+Soldier: 76,Baptiste,2
+Soldier: 76,Brigitte,2
+Soldier: 76,Kiriko,2
+Soldier: 76,Lúcio,2
+Soldier: 76,Mercy,2
+Soldier: 76,Moira,2
+Soldier: 76,Zenyatta,2
+Sombra,Dva,0
+Sombra,Doomfist,1
+Sombra,Junker Queen,0
+Sombra,Orisa,2
+Sombra,Ramattra,2
+Sombra,Reinhardt,-1
+Sombra,Roadhog,-2
+Sombra,Sigma,1
+Sombra,Winston,0
+Sombra,Wrecking Ball,2
+Sombra,Zarya,2
+Sombra,Ashe,2
+Sombra,Bastion,2
+Sombra,Cassidy,2
+Sombra,Echo,2
+Sombra,Genji,2
+Sombra,Hanzo,2
+Sombra,Junkrat,2
+Sombra,Mei,2
+Sombra,Pharah,2
+Sombra,Reaper,2
+Sombra,Sojourn,2
+Sombra,Soldier: 76,2
+Sombra,Sombra,2
+Sombra,Symmetra,2
+Sombra,Torbjörn,2
+Sombra,Tracer,2
+Sombra,Widowmaker,2
+Sombra,Ana,2
+Sombra,Baptiste,2
+Sombra,Brigitte,2
+Sombra,Kiriko,2
+Sombra,Lúcio,2
+Sombra,Mercy,2
+Sombra,Moira,2
+Sombra,Zenyatta,2
+Symmetra,Dva,0
+Symmetra,Doomfist,1
+Symmetra,Junker Queen,0
+Symmetra,Orisa,2
+Symmetra,Ramattra,2
+Symmetra,Reinhardt,-1
+Symmetra,Roadhog,-2
+Symmetra,Sigma,1
+Symmetra,Winston,0
+Symmetra,Wrecking Ball,2
+Symmetra,Zarya,2
+Symmetra,Ashe,2
+Symmetra,Bastion,2
+Symmetra,Cassidy,2
+Symmetra,Echo,2
+Symmetra,Genji,2
+Symmetra,Hanzo,2
+Symmetra,Junkrat,2
+Symmetra,Mei,2
+Symmetra,Pharah,2
+Symmetra,Reaper,2
+Symmetra,Sojourn,2
+Symmetra,Soldier: 76,2
+Symmetra,Sombra,2
+Symmetra,Symmetra,2
+Symmetra,Torbjörn,2
+Symmetra,Tracer,2
+Symmetra,Widowmaker,2
+Symmetra,Ana,2
+Symmetra,Baptiste,2
+Symmetra,Brigitte,2
+Symmetra,Kiriko,2
+Symmetra,Lúcio,2
+Symmetra,Mercy,2
+Symmetra,Moira,2
+Symmetra,Zenyatta,2
+Torbjörn,Dva,0
+Torbjörn,Doomfist,1
+Torbjörn,Junker Queen,0
+Torbjörn,Orisa,2
+Torbjörn,Ramattra,2
+Torbjörn,Reinhardt,-1
+Torbjörn,Roadhog,-2
+Torbjörn,Sigma,1
+Torbjörn,Winston,0
+Torbjörn,Wrecking Ball,2
+Torbjörn,Zarya,2
+Torbjörn,Ashe,2
+Torbjörn,Bastion,2
+Torbjörn,Cassidy,2
+Torbjörn,Echo,2
+Torbjörn,Genji,2
+Torbjörn,Hanzo,2
+Torbjörn,Junkrat,2
+Torbjörn,Mei,2
+Torbjörn,Pharah,2
+Torbjörn,Reaper,2
+Torbjörn,Sojourn,2
+Torbjörn,Soldier: 76,2
+Torbjörn,Sombra,2
+Torbjörn,Symmetra,2
+Torbjörn,Torbjörn,2
+Torbjörn,Tracer,2
+Torbjörn,Widowmaker,2
+Torbjörn,Ana,2
+Torbjörn,Baptiste,2
+Torbjörn,Brigitte,2
+Torbjörn,Kiriko,2
+Torbjörn,Lúcio,2
+Torbjörn,Mercy,2
+Torbjörn,Moira,2
+Torbjörn,Zenyatta,2
+Tracer,Dva,0
+Tracer,Doomfist,1
+Tracer,Junker Queen,0
+Tracer,Orisa,2
+Tracer,Ramattra,2
+Tracer,Reinhardt,-1
+Tracer,Roadhog,-2
+Tracer,Sigma,1
+Tracer,Winston,0
+Tracer,Wrecking Ball,2
+Tracer,Zarya,2
+Tracer,Ashe,2
+Tracer,Bastion,2
+Tracer,Cassidy,2
+Tracer,Echo,2
+Tracer,Genji,2
+Tracer,Hanzo,2
+Tracer,Junkrat,2
+Tracer,Mei,2
+Tracer,Pharah,2
+Tracer,Reaper,2
+Tracer,Sojourn,2
+Tracer,Soldier: 76,2
+Tracer,Sombra,2
+Tracer,Symmetra,2
+Tracer,Torbjörn,2
+Tracer,Tracer,2
+Tracer,Widowmaker,2
+Tracer,Ana,2
+Tracer,Baptiste,2
+Tracer,Brigitte,2
+Tracer,Kiriko,2
+Tracer,Lúcio,2
+Tracer,Mercy,2
+Tracer,Moira,2
+Tracer,Zenyatta,2
+Widowmaker,Dva,0
+Widowmaker,Doomfist,1
+Widowmaker,Junker Queen,0
+Widowmaker,Orisa,2
+Widowmaker,Ramattra,2
+Widowmaker,Reinhardt,-1
+Widowmaker,Roadhog,-2
+Widowmaker,Sigma,1
+Widowmaker,Winston,0
+Widowmaker,Wrecking Ball,2
+Widowmaker,Zarya,2
+Widowmaker,Ashe,2
+Widowmaker,Bastion,2
+Widowmaker,Cassidy,2
+Widowmaker,Echo,2
+Widowmaker,Genji,2
+Widowmaker,Hanzo,2
+Widowmaker,Junkrat,2
+Widowmaker,Mei,2
+Widowmaker,Pharah,2
+Widowmaker,Reaper,2
+Widowmaker,Sojourn,2
+Widowmaker,Soldier: 76,2
+Widowmaker,Sombra,2
+Widowmaker,Symmetra,2
+Widowmaker,Torbjörn,2
+Widowmaker,Tracer,2
+Widowmaker,Widowmaker,2
+Widowmaker,Ana,2
+Widowmaker,Baptiste,2
+Widowmaker,Brigitte,2
+Widowmaker,Kiriko,2
+Widowmaker,Lúcio,2
+Widowmaker,Mercy,2
+Widowmaker,Moira,2
+Widowmaker,Zenyatta,2
+Ana,Dva,0
+Ana,Doomfist,1
+Ana,Junker Queen,0
+Ana,Orisa,2
+Ana,Ramattra,2
+Ana,Reinhardt,-1
+Ana,Roadhog,-2
+Ana,Sigma,1
+Ana,Winston,0
+Ana,Wrecking Ball,2
+Ana,Zarya,2
+Ana,Ashe,2
+Ana,Bastion,2
+Ana,Cassidy,2
+Ana,Echo,2
+Ana,Genji,2
+Ana,Hanzo,2
+Ana,Junkrat,2
+Ana,Mei,2
+Ana,Pharah,2
+Ana,Reaper,2
+Ana,Sojourn,2
+Ana,Soldier: 76,2
+Ana,Sombra,2
+Ana,Symmetra,2
+Ana,Torbjörn,2
+Ana,Tracer,2
+Ana,Widowmaker,2
+Ana,Ana,2
+Ana,Baptiste,2
+Ana,Brigitte,2
+Ana,Kiriko,2
+Ana,Lúcio,2
+Ana,Mercy,2
+Ana,Moira,2
+Ana,Zenyatta,2
+Baptiste,Dva,0
+Baptiste,Doomfist,1
+Baptiste,Junker Queen,0
+Baptiste,Orisa,2
+Baptiste,Ramattra,2
+Baptiste,Reinhardt,-1
+Baptiste,Roadhog,-2
+Baptiste,Sigma,1
+Baptiste,Winston,0
+Baptiste,Wrecking Ball,2
+Baptiste,Zarya,2
+Baptiste,Ashe,2
+Baptiste,Bastion,2
+Baptiste,Cassidy,2
+Baptiste,Echo,2
+Baptiste,Genji,2
+Baptiste,Hanzo,2
+Baptiste,Junkrat,2
+Baptiste,Mei,2
+Baptiste,Pharah,2
+Baptiste,Reaper,2
+Baptiste,Sojourn,2
+Baptiste,Soldier: 76,2
+Baptiste,Sombra,2
+Baptiste,Symmetra,2
+Baptiste,Torbjörn,2
+Baptiste,Tracer,2
+Baptiste,Widowmaker,2
+Baptiste,Ana,2
+Baptiste,Baptiste,2
+Baptiste,Brigitte,2
+Baptiste,Kiriko,2
+Baptiste,Lúcio,2
+Baptiste,Mercy,2
+Baptiste,Moira,2
+Baptiste,Zenyatta,2
+Brigitte,Dva,0
+Brigitte,Doomfist,1
+Brigitte,Junker Queen,0
+Brigitte,Orisa,2
+Brigitte,Ramattra,2
+Brigitte,Reinhardt,-1
+Brigitte,Roadhog,-2
+Brigitte,Sigma,1
+Brigitte,Winston,0
+Brigitte,Wrecking Ball,2
+Brigitte,Zarya,2
+Brigitte,Ashe,2
+Brigitte,Bastion,2
+Brigitte,Cassidy,2
+Brigitte,Echo,2
+Brigitte,Genji,2
+Brigitte,Hanzo,2
+Brigitte,Junkrat,2
+Brigitte,Mei,2
+Brigitte,Pharah,2
+Brigitte,Reaper,2
+Brigitte,Sojourn,2
+Brigitte,Soldier: 76,2
+Brigitte,Sombra,2
+Brigitte,Symmetra,2
+Brigitte,Torbjörn,2
+Brigitte,Tracer,2
+Brigitte,Widowmaker,2
+Brigitte,Ana,2
+Brigitte,Baptiste,2
+Brigitte,Brigitte,2
+Brigitte,Kiriko,2
+Brigitte,Lúcio,2
+Brigitte,Mercy,2
+Brigitte,Moira,2
+Brigitte,Zenyatta,2
+Kiriko,Dva,0
+Kiriko,Doomfist,1
+Kiriko,Junker Queen,0
+Kiriko,Orisa,2
+Kiriko,Ramattra,2
+Kiriko,Reinhardt,-1
+Kiriko,Roadhog,-2
+Kiriko,Sigma,1
+Kiriko,Winston,0
+Kiriko,Wrecking Ball,2
+Kiriko,Zarya,2
+Kiriko,Ashe,2
+Kiriko,Bastion,2
+Kiriko,Cassidy,2
+Kiriko,Echo,2
+Kiriko,Genji,2
+Kiriko,Hanzo,2
+Kiriko,Junkrat,2
+Kiriko,Mei,2
+Kiriko,Pharah,2
+Kiriko,Reaper,2
+Kiriko,Sojourn,2
+Kiriko,Soldier: 76,2
+Kiriko,Sombra,2
+Kiriko,Symmetra,2
+Kiriko,Torbjörn,2
+Kiriko,Tracer,2
+Kiriko,Widowmaker,2
+Kiriko,Ana,2
+Kiriko,Baptiste,2
+Kiriko,Brigitte,2
+Kiriko,Kiriko,2
+Kiriko,Lúcio,2
+Kiriko,Mercy,2
+Kiriko,Moira,2
+Kiriko,Zenyatta,2
+Lúcio,Dva,0
+Lúcio,Doomfist,1
+Lúcio,Junker Queen,0
+Lúcio,Orisa,2
+Lúcio,Ramattra,2
+Lúcio,Reinhardt,-1
+Lúcio,Roadhog,-2
+Lúcio,Sigma,1
+Lúcio,Winston,0
+Lúcio,Wrecking Ball,2
+Lúcio,Zarya,2
+Lúcio,Ashe,2
+Lúcio,Bastion,2
+Lúcio,Cassidy,2
+Lúcio,Echo,2
+Lúcio,Genji,2
+Lúcio,Hanzo,2
+Lúcio,Junkrat,2
+Lúcio,Mei,2
+Lúcio,Pharah,2
+Lúcio,Reaper,2
+Lúcio,Sojourn,2
+Lúcio,Soldier: 76,2
+Lúcio,Sombra,2
+Lúcio,Symmetra,2
+Lúcio,Torbjörn,2
+Lúcio,Tracer,2
+Lúcio,Widowmaker,2
+Lúcio,Ana,2
+Lúcio,Baptiste,2
+Lúcio,Brigitte,2
+Lúcio,Kiriko,2
+Lúcio,Lúcio,2
+Lúcio,Mercy,2
+Lúcio,Moira,2
+Lúcio,Zenyatta,2
+Mercy,Dva,0
+Mercy,Doomfist,1
+Mercy,Junker Queen,0
+Mercy,Orisa,2
+Mercy,Ramattra,2
+Mercy,Reinhardt,-1
+Mercy,Roadhog,-2
+Mercy,Sigma,1
+Mercy,Winston,0
+Mercy,Wrecking Ball,2
+Mercy,Zarya,2
+Mercy,Ashe,2
+Mercy,Bastion,2
+Mercy,Cassidy,2
+Mercy,Echo,2
+Mercy,Genji,2
+Mercy,Hanzo,2
+Mercy,Junkrat,2
+Mercy,Mei,2
+Mercy,Pharah,2
+Mercy,Reaper,2
+Mercy,Sojourn,2
+Mercy,Soldier: 76,2
+Mercy,Sombra,2
+Mercy,Symmetra,2
+Mercy,Torbjörn,2
+Mercy,Tracer,2
+Mercy,Widowmaker,2
+Mercy,Ana,2
+Mercy,Baptiste,2
+Mercy,Brigitte,2
+Mercy,Kiriko,2
+Mercy,Lúcio,2
+Mercy,Mercy,2
+Mercy,Moira,2
+Mercy,Zenyatta,2
+Moira,Dva,0
+Moira,Doomfist,1
+Moira,Junker Queen,0
+Moira,Orisa,2
+Moira,Ramattra,2
+Moira,Reinhardt,-1
+Moira,Roadhog,-2
+Moira,Sigma,1
+Moira,Winston,0
+Moira,Wrecking Ball,2
+Moira,Zarya,2
+Moira,Ashe,2
+Moira,Bastion,2
+Moira,Cassidy,2
+Moira,Echo,2
+Moira,Genji,2
+Moira,Hanzo,2
+Moira,Junkrat,2
+Moira,Mei,2
+Moira,Pharah,2
+Moira,Reaper,2
+Moira,Sojourn,2
+Moira,Soldier: 76,2
+Moira,Sombra,2
+Moira,Symmetra,2
+Moira,Torbjörn,2
+Moira,Tracer,2
+Moira,Widowmaker,2
+Moira,Ana,2
+Moira,Baptiste,2
+Moira,Brigitte,2
+Moira,Kiriko,2
+Moira,Lúcio,2
+Moira,Mercy,2
+Moira,Moira,2
+Moira,Zenyatta,2
+Zenyatta,Dva,0
+Zenyatta,Doomfist,1
+Zenyatta,Junker Queen,0
+Zenyatta,Orisa,2
+Zenyatta,Ramattra,2
+Zenyatta,Reinhardt,-1
+Zenyatta,Roadhog,-2
+Zenyatta,Sigma,1
+Zenyatta,Winston,0
+Zenyatta,Wrecking Ball,2
+Zenyatta,Zarya,2
+Zenyatta,Ashe,2
+Zenyatta,Bastion,2
+Zenyatta,Cassidy,2
+Zenyatta,Echo,2
+Zenyatta,Genji,2
+Zenyatta,Hanzo,2
+Zenyatta,Junkrat,2
+Zenyatta,Mei,2
+Zenyatta,Pharah,2
+Zenyatta,Reaper,2
+Zenyatta,Sojourn,2
+Zenyatta,Soldier: 76,2
+Zenyatta,Sombra,2
+Zenyatta,Symmetra,2
+Zenyatta,Torbjörn,2
+Zenyatta,Tracer,2
+Zenyatta,Widowmaker,2
+Zenyatta,Ana,2
+Zenyatta,Baptiste,2
+Zenyatta,Brigitte,2
+Zenyatta,Kiriko,2
+Zenyatta,Lúcio,2
+Zenyatta,Mercy,2
+Zenyatta,Moira,2
+Zenyatta,Zenyatta,2
