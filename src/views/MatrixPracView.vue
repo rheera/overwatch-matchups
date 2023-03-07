@@ -25,8 +25,9 @@ function drawChart() {
 
   // append the svg object to the body of the page
   const svg = d3
-    .select('#my_dataviz')
+    .select('#matrix')
     .append('svg')
+    // .attr('viewBox', `0 0 1250 1250`)
     .attr('width', width + margin.left + margin.right)
     .attr('height', height + margin.top + margin.bottom)
     .append('g')
@@ -76,15 +77,16 @@ function drawChart() {
 
         return getImgSrc(heroesInfo.find((hero) => hero.name === d).img)
       })
+      .attr('class', 'x-imgs')
       .attr('width', x.bandwidth())
       .attr('height', y.bandwidth())
 
     // Build color scale
-    const myColor = d3.scaleSequential().interpolator(d3.interpolateInferno).domain([-2, 2])
+    const myColor = d3.scaleSequential().interpolator(d3.interpolateRdYlGn).domain([-2, 2])
 
     // create a tooltip
     const tooltip = d3
-      .select('#my_dataviz')
+      .select('#matrix')
       .append('div')
       .style('opacity', 0)
       .attr('class', 'tooltip')
@@ -100,7 +102,7 @@ function drawChart() {
       d3.select(this).style('stroke', 'black').style('opacity', 1)
     }
     const mousemove = function (event, d) {
-      console.log(event)
+      //   console.log(event)
 
       tooltip
         .html(
@@ -166,6 +168,25 @@ function drawChart() {
     .style('fill', 'grey')
     .style('max-width', 400)
     .text('A short description of the take-away message of this chart.')
+
+  //   window.onscroll = function () {
+  //     myFunction()
+  //   }
+
+  //   function myFunction() {
+  //     if (window.pageYOffset <= 10) {
+  //       d3.select('.xAxis')
+  //         .nodes()[0]
+  //         .setAttribute('transform', 'translate(0, ' + 0 + ')')
+  //     }
+  //     if (window.pageYOffset > 10) {
+  //       console.log(window.pageYOffset)
+
+  //       d3.select('.xAxis')
+  //         .nodes()[0]
+  //         .setAttribute('transform', 'translate(0, ' + window.pageYOffset + ')')
+  //     }
+  //   }
 }
 onMounted(() => {
   drawChart()
@@ -174,51 +195,24 @@ onMounted(() => {
 
 <template>
   <main>
-    <div id="my_dataviz"></div>
+    <div id="table-cnt">
+      <div id="matrix"></div>
+      <div id="y-axis"></div>
+    </div>
   </main>
 </template>
 
 <style lang="scss">
-.table {
-  max-height: 90vh;
-  overflow-y: auto;
-  display: block;
-  thead {
-    position: sticky;
-    top: 0;
-  }
-  tr {
-    max-height: 37px !important;
-  }
-  .column-headers {
-    max-width: 50px;
-    white-space: nowrap;
-    overflow: hidden;
-    // text-overflow: ellipsis;
-    padding: 0;
-  }
-  td {
-    // width: 275px;
-    // height: 200px;
-    // background: url(http://dummyimage.com/400x268) center no-repeat;
-    transition: 0.25s;
-    box-shadow: inset 0 0 0 2px;
-    max-height: 37px !important;
-    .info {
-      opacity: 0;
-      max-height: 0;
-      max-width: 0;
-      &-active {
-        opacity: 1;
-        max-width: 100%;
-        max-height: 100%;
-      }
-    }
-  }
-  td:hover {
-    background-size: 100% 100%;
-    transform: scale(2);
-    transform-origin: center;
-  }
-}
+// .xAxis {
+//   .tick {
+//     position: sticky;
+//     top: 20px;
+//     .x-imgs {
+//       position: sticky;
+//       top: 20px;
+//     }
+//   }
+//   position: sticky;
+//   top: 20px;
+// }
 </style>

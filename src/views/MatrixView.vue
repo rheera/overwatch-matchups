@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { heroes } from '@/assets/data/heroes.js'
 import { onMounted, computed, ref } from 'vue'
+import ToolTip from '@/components/ToolTip.vue'
 
 const hover = ref(true)
 const hoveredSquare = ref({ attacker: -1, defender: -1 })
@@ -42,23 +43,28 @@ onMounted(() => {})
             <td
               v-for="(enemy, enemyIndex) in hero.matchup"
               :key="hero + '-' + enemy"
-              class="text-center"
+              class="text-center str-tile"
               @mouseover="hoverSquare(heroIndex, enemyIndex)"
               @mouseleave="hoverSquare(-1, -1)"
               :data-value="{ attacker: hero.name, defender: enemy.enemy }"
             >
               {{ enemy.strength }}
-              <p
-                :class="[
-                  {
-                    'info-active':
-                      hoveredSquare.attacker === heroIndex && hoveredSquare.defender === enemyIndex
-                  },
-                  'info'
-                ]"
-              >
-                {{ hero.name }} --> {{ enemy.enemy }}
-              </p>
+              <div class="tooltip" :class="enemyIndex > hero.matchup.length / 2 ? 'left' : 'right'">
+                <div class="text-content">
+                  <h3>Fade in Effect</h3>
+                  <ul>
+                    <li>This demo has fade in/out effect.</li>
+                    <li>
+                      It is using CSS opacity, visibility, and transition property to toggle the
+                      tooltip.
+                    </li>
+                    <li>
+                      Other demos are using display property<em>(none or block)</em> for the toggle.
+                    </li>
+                  </ul>
+                </div>
+                <i></i>
+              </div>
             </td>
           </tr>
         </tbody>
@@ -75,6 +81,7 @@ onMounted(() => {})
   thead {
     position: sticky;
     top: 0;
+    z-index: 2;
   }
   tr {
     max-height: 37px !important;
@@ -98,16 +105,88 @@ onMounted(() => {})
       max-height: 0;
       max-width: 0;
       &-active {
-        opacity: 1;
-        max-width: 100%;
-        max-height: 100%;
+        // opacity: 1;
+        // max-width: 100%;
+        // max-height: 100%;
       }
     }
   }
-  td:hover {
-    background-size: 100% 100%;
-    transform: scale(2);
-    transform-origin: center;
+  .str-tile {
+    // display: inline-block;
+    position: relative;
+    // border-bottom: 1px dotted #666;
+    // text-align: left;
+    .tooltip {
+      min-width: 200px;
+      max-width: 400px;
+      top: 50%;
+      transform: translate(0, -50%);
+      padding: 0;
+      color: #eeeeee;
+      background-color: #444444;
+      font-weight: normal;
+      font-size: 13px;
+      border-radius: 8px;
+      position: absolute;
+      z-index: 3;
+      box-sizing: border-box;
+      box-shadow: 0 1px 8px rgba(0, 0, 0, 0.5);
+      visibility: hidden;
+      opacity: 0;
+      transition: opacity 0.8s;
+    }
+    .right {
+      left: 100%;
+      margin-left: 20px;
+    }
+    .left {
+      right: 100%;
+      margin-right: 20px;
+    }
+
+    &:hover .tooltip {
+      visibility: visible;
+      opacity: 1;
+    }
+
+    .tooltip img {
+      width: 400px;
+      border-radius: 8px 8px 0 0;
+    }
+    .text-content {
+      padding: 10px 20px;
+    }
+
+    .tooltip i {
+      position: absolute;
+      top: 50%;
+      margin-top: -12px;
+      width: 12px;
+      height: 24px;
+      overflow: hidden;
+    }
+    .right i {
+      right: 100%;
+      &::after {
+        transform: translate(50%, -50%) rotate(-45deg);
+      }
+    }
+    .left i {
+      left: 100%;
+      &::after {
+        transform: translate(-50%, -50%) rotate(-45deg);
+      }
+    }
+    .tooltip i::after {
+      content: '';
+      position: absolute;
+      width: 12px;
+      height: 12px;
+      left: 0;
+      top: 50%;
+      background-color: #444444;
+      box-shadow: 0 1px 8px rgba(0, 0, 0, 0.5);
+    }
   }
 }
 </style>
