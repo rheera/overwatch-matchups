@@ -22,7 +22,7 @@ onMounted(() => {})
 
 <template>
   <main>
-    <div class="overflow-x-auto">
+    <div>
       <table class="table table-fixed table-compact w-full">
         <thead>
           <tr>
@@ -76,8 +76,11 @@ onMounted(() => {})
 <style lang="scss">
 .table {
   max-height: 90vh;
-  overflow-y: auto;
+  max-width: 90vw;
+  min-width: 800px;
+  // overflow-y: auto;
   display: block;
+  margin: 0 auto;
   thead {
     position: sticky;
     top: 0;
