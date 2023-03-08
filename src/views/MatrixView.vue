@@ -1,21 +1,29 @@
 <script setup lang="ts">
 import { heroes } from '@/assets/data/heroes.js'
-import { onMounted, computed, ref } from 'vue'
+import { onMounted, computed, ref, watch } from 'vue'
 import ToolTip from '@/components/ToolTip.vue'
 
-const hover = ref(true)
-const hoveredSquare = ref({ attacker: -1, defender: -1 })
+const defender = ref('')
 
-const imgSrc = computed((img) => new URL(`../../lib/Carousel/assets/${img}`, import.meta.url).href)
+const colorsArr = ['#d0587e', '#d98994', '#f1eac8', '#72aaa1', '#009392']
 
 function getImgSrc(img: string) {
   return new URL(`/src/assets/${img}`, import.meta.url).href
 }
 
-function hoverSquare(attacker: number, defender: number) {
-  hoveredSquare.value.attacker = attacker
-  hoveredSquare.value.defender = defender
-}
+// function setDefender(defenderName: string) {
+//   defender.value = defenderName
+// }
+watch(defender, (defender) => {
+  // const table = document.getElementById('main-table')
+  // const cells = table.getElementsByTagName('td')
+  // for (const cell of cells) {
+  //   const status = cell.getAttribute('data-defender')
+  //   if (status === defender) {
+  //     cell.className = 'highlighted-col'
+  //   }
+  // }
+})
 
 onMounted(() => {})
 </script>
@@ -23,7 +31,7 @@ onMounted(() => {})
 <template>
   <main>
     <div>
-      <table class="table table-fixed table-compact w-full">
+      <table class="table table-fixed table-compact w-full lg:table-auto" id="main-table">
         <thead>
           <tr>
             <th></th>
@@ -38,30 +46,23 @@ onMounted(() => {})
           </tr>
         </thead>
         <tbody>
-          <tr v-for="(hero, heroIndex) in heroes" :key="hero.name + '-row'">
+          <tr v-for="hero in heroes" :key="hero.name + '-row'">
             <th :style="{ 'background-color': hero.color }">{{ hero.name }}</th>
             <td
               v-for="(enemy, enemyIndex) in hero.matchup"
               :key="hero + '-' + enemy"
               class="text-center str-tile"
-              @mouseover="hoverSquare(heroIndex, enemyIndex)"
-              @mouseleave="hoverSquare(-1, -1)"
-              :data-value="{ attacker: hero.name, defender: enemy.enemy }"
+              :class="{ 'highlighted-col': defender == enemy.enemy }"
+              :style="{ 'background-color': colorsArr[enemy.strength + 2] }"
+              :data-attacker="hero.name"
+              :data-defender="enemy.enemy"
+              @mouseover="defender = enemy.enemy"
+              @mouseleave="defender = ''"
             >
               {{ enemy.strength }}
               <div class="tooltip" :class="enemyIndex > hero.matchup.length / 2 ? 'left' : 'right'">
                 <div class="text-content">
-                  <h3>Fade in Effect</h3>
-                  <ul>
-                    <li>This demo has fade in/out effect.</li>
-                    <li>
-                      It is using CSS opacity, visibility, and transition property to toggle the
-                      tooltip.
-                    </li>
-                    <li>
-                      Other demos are using display property<em>(none or block)</em> for the toggle.
-                    </li>
-                  </ul>
+                  <p>{{ hero.name }} attacks {{ enemy.enemy }}</p>
                 </div>
                 <i></i>
               </div>
@@ -77,7 +78,7 @@ onMounted(() => {})
 .table {
   max-height: 90vh;
   max-width: 90vw;
-  min-width: 800px;
+  min-width: 1000px !important;
   // overflow-y: auto;
   display: block;
   margin: 0 auto;
@@ -85,24 +86,34 @@ onMounted(() => {})
     position: sticky;
     top: 0;
     z-index: 2;
+    tr:hover {
+      -webkit-filter: brightness(100%);
+    }
   }
   tr {
     max-height: 37px !important;
+    &:hover {
+      -webkit-filter: brightness(125%);
+    }
   }
+
   .column-headers {
     max-width: 50px;
+    max-height: 50px;
     white-space: nowrap;
     overflow: hidden;
     // text-overflow: ellipsis;
     padding: 0;
   }
+
   td {
     // width: 275px;
     // height: 200px;
     // background: url(http://dummyimage.com/400x268) center no-repeat;
     transition: 0.25s;
-    box-shadow: inset 0 0 0 2px;
+    // box-shadow: inset 0 0 0 2px;
     max-height: 37px !important;
+    max-width: 37px !important;
     .info {
       opacity: 0;
       max-height: 0;
@@ -113,10 +124,16 @@ onMounted(() => {})
         // max-height: 100%;
       }
     }
+    &.highlighted-col {
+      -webkit-filter: brightness(125%);
+      filter: brightness(125%);
+      z-index: 1;
+    }
   }
   .str-tile {
     // display: inline-block;
     position: relative;
+    border-radius: 2px;
     // border-bottom: 1px dotted #666;
     // text-align: left;
     .tooltip {
@@ -131,7 +148,7 @@ onMounted(() => {})
       font-size: 13px;
       border-radius: 8px;
       position: absolute;
-      z-index: 3;
+      z-index: 12;
       box-sizing: border-box;
       box-shadow: 0 1px 8px rgba(0, 0, 0, 0.5);
       visibility: hidden;

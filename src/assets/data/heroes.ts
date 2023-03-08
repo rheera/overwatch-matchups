@@ -17,7 +17,7 @@ export const heroes = [
       { enemy: 'Sigma', strength: 2 },
       { enemy: 'Winston', strength: 2 },
       { enemy: 'Wrecking Ball', strength: 2 },
-      { enemy: 'Zarya', strength: 2 },
+      { enemy: 'Zarya', strength: -2 },
       { enemy: 'Ashe', strength: 2 },
       { enemy: 'Bastion', strength: 2 },
       { enemy: 'Cassidy', strength: 2 },
@@ -38,11 +38,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -82,11 +82,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -126,11 +126,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -170,11 +170,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -214,11 +214,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -258,11 +258,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -302,11 +302,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -346,11 +346,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -390,11 +390,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -434,11 +434,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -478,11 +478,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -522,11 +522,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -566,11 +566,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -610,11 +610,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -654,11 +654,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -698,11 +698,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -742,11 +742,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -786,11 +786,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -830,11 +830,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -874,11 +874,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -918,11 +918,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -962,11 +962,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -1006,11 +1006,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -1050,11 +1050,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -1094,11 +1094,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -1138,11 +1138,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -1182,11 +1182,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -1226,11 +1226,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -1270,11 +1270,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -1314,11 +1314,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -1358,11 +1358,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -1402,11 +1402,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -1446,11 +1446,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -1490,11 +1490,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -1534,11 +1534,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   },
   {
@@ -1578,11 +1578,11 @@ export const heroes = [
       { enemy: 'Ana', strength: 2 },
       { enemy: 'Baptiste', strength: 2 },
       { enemy: 'Brigitte', strength: 2 },
+      { enemy: 'Kiriko', strength: 2 },
       { enemy: 'Lúcio', strength: 2 },
       { enemy: 'Mercy', strength: 2 },
       { enemy: 'Moira', strength: 2 },
-      { enemy: 'Zenyatta', strength: 2 },
-      { enemy: 'Kiriko', strength: 2 }
+      { enemy: 'Zenyatta', strength: 2 }
     ]
   }
 ]

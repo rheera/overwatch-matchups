@@ -2,7 +2,7 @@
 import { RouterLink, RouterView } from 'vue-router'
 import { ref } from 'vue'
 
-const darkMode = ref(true)
+const darkMode = ref(false)
 
 function toggleDarkMode() {
   console.log(darkMode.value)
