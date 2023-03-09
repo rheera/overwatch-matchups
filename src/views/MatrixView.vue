@@ -40,6 +40,7 @@ onMounted(() => {})
               :key="hero.name + '-column'"
               :style="{ 'background-color': hero.color }"
               class="column-headers"
+              :class="{ 'highlighted-col': defender == hero.name }"
             >
               <img :src="getImgSrc(hero.img)" :alt="hero.name + '-headshot'" />
             </th>
@@ -124,11 +125,11 @@ onMounted(() => {})
         // max-height: 100%;
       }
     }
-    &.highlighted-col {
-      -webkit-filter: brightness(125%);
-      filter: brightness(125%);
-      z-index: 1;
-    }
+  }
+  .highlighted-col {
+    -webkit-filter: brightness(125%);
+    filter: brightness(125%);
+    z-index: 1;
   }
   .str-tile {
     // display: inline-block;
