@@ -1,6 +1,11 @@
 # overwatch-matchups
 
-This template should help get you started developing with Vue 3 in Vite.
+Compare Overwatch heroes and see who is good and bad against other heroes using a Matrix.
+Vue 3 and TypeScript.
+
+## Authors
+
+- [@rheera](https://github.com/rheera)
 
 ## Recommended IDE Setup
 
